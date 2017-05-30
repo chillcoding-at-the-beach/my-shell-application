@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <group
+        android:id="@+id/my_menu_cv"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/my_profil_action"
+            android:icon="@drawable/ic_profil"
+            android:title="@string/profil_menu"
+            app:showAsAction="always" />
+
+        <item
+            android:id="@+id/my_project_action"
+            android:icon="@drawable/ic_project"
+            android:title="@string/project_menu"
+            app:showAsAction="always" />
+    </group>
+
+    <group android:id="@+id/my_menu_bis">
+        <item
+            android:id="@+id/my_setting_action"
+            android:icon="@drawable/ic_setting"
+            android:title="@string/setting_menu"
+            app:showAsAction="always" />
+    </group>
+</menu>

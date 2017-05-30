@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">My Shell</string>
+
+    <string name="navigation_drawer_open">open</string>
+    <string name="navigation_drawer_close">close</string>
+
+    <string name="profil_menu">Profil</string>
+    <string name="like_menu">Like</string>
+    <string name="project_menu">Project</string>
+    <string name="setting_menu">Settings</string>
+
+    <string name="sound_pref_title">Sound preference</string>
+
+    <string name="api_text">API : %d</string>
+    <string name="version_text">Android %s</string>
+
+    <string name="list_project_text">List of Android Versions</string>
+    <string name="network_project_text">List of Repos with GitHubService</string>
+    <string name="view_project_text">Animated Custom View</string>
+    <string name="map_project_text">Simple Map</string>
+    <string name="pdf_project_text">Local PDF Document Preview</string>
+    <string name="camera_project_text">Take a picture</string>
+
+    <string-array name="motivation_quote">
+        <item>The Only Way to Do Great Work is to Love What You Do.</item>
+        <item>The expert in anything was once a beginner.</item>
+        <item>Everything will be ok in the end. If it’s not ok, it’s not the end.</item>
+        <item>To Improve is To Change, To be Perfect is To Change Often.</item>
+        <item>To be a champ, you have to believe in yourself when nobody else will.</item>
+        <item>Alone we go faster, together we go further.</item>
+    </string-array>
+
+    <string name="sound_key" translatable="false">sound</string>
+
+    <string name="info_text">This Shell Application is made during my training course as a showcase.
+    This session occurred in april 2017 during 20 days with 14 lovely learners.
+    </string>
+    <string name="app_project_text">Open Settings App</string>
+</resources>
